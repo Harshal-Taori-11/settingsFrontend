@@ -1,4 +1,4 @@
-import animeproj from "../assests/animeproj.jpg"
+import animeproj from "../../../assests/animeproj.jpg"
 
 export default function ProfileContainer(){
 

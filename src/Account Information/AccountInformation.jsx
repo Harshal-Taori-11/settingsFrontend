@@ -9,7 +9,7 @@ import Skills from "./components/Skills";
 export default function AccountInformation(){
 
     return(
-            <div className="bg-dark text-white p-4 container-fluid row">
+            <div className="p-4 container-fluid row" style={{backgroundColor: "#0c0c0e",color: "#ffffff"}}>
                 <h2 className="my-4 head">Account Information</h2>
                 <div className="col-sm-4 mt-6 mx-auto">
                     <ProfileContainer></ProfileContainer>

@@ -9,7 +9,7 @@ export default function Cards(props){
                     </div>
                     <div className="ms-5" >
                         <h5>{props.title}</h5>
-                        <p>UserName : {props.username}</p>
+                        <p>Username : {props.username}</p>
                     </div>
                 </div>
                 
